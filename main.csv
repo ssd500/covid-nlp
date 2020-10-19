@@ -1,0 +1,3 @@
+text, LABEL
+"hi! dont forget to sanitize!", RELEVANT
+"where is the alien from Mars?", NON-RELEVANT
